@@ -1,0 +1,3 @@
+[submodule "_gittest2"]
+	path = _gittest2
+	url = git@github.com:ralfholly/gittest2.git
